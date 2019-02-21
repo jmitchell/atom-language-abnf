@@ -1,6 +1,6 @@
 {
   "name": "language-abnf",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "ABNF language support in Atom",
   "main": "lib/main",
   "repository": {
@@ -8,9 +8,15 @@
     "url": "https://github.com/jmitchell/language-abnf.git"
   },
   "keywords": [
-    "tree-sitter",
-    "abnf"
+    "abnf",
+    "bnf",
+    "grammar",
+    "syntax",
+    "tree-sitter"
   ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jmitchell/language-abnf/issues"
