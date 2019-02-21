@@ -1,0 +1,13 @@
+'scopeName': 'text.abnf.basic'
+'name': 'ABNF'
+'type': 'tree-sitter'
+'parser': 'tree-sitter-abnf'
+'fileTypes': [
+  'abnf'
+]
+'scopes': # TODO
+'folds': [
+  # TODO
+]
+'comments':
+  'start': '; '
