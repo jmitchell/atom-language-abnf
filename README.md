@@ -4,7 +4,7 @@
 Adds syntax highlighting to ABNF files in Atom.
 
 ## Preview
-![Screenshot](screenshot)
+![Screenshot][screenshot]
 
 
 
