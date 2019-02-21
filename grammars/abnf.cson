@@ -5,9 +5,8 @@
 'fileTypes': [
   'abnf'
 ]
-'scopes': # TODO
-'folds': [
-  # TODO
-]
+# 'scopes':
+# 'folds': [
+# ]
 'comments':
   'start': '; '

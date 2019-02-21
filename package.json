@@ -16,6 +16,6 @@
     "url": "https://github.com/jmitchell/language-abnf/issues"
   },
   "dependencies": {
-    "tree-sitter-abnf": "0.0.1"
+    "tree-sitter-abnf": "0.0.2"
   }
 }
