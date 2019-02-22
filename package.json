@@ -5,7 +5,7 @@
   "main": "lib/main",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmitchell/language-abnf.git"
+    "url": "https://github.com/jmitchell/atom-language-abnf.git"
   },
   "keywords": [
     "abnf",
